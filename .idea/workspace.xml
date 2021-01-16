@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d7b6a41-bc4e-4f8d-9ae1-87aa0767ad88" name="Default Changelist" comment="New commit" />
+    <list default="true" id="6d7b6a41-bc4e-4f8d-9ae1-87aa0767ad88" name="Default Changelist" comment="New commit">
+      <change beforePath="$PROJECT_DIR$/#src/_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/#src/_header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/#src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/#src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/#src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610705277598</updated>
-      <workItem from="1610705278747" duration="1969000" />
+      <workItem from="1610705278747" duration="22260000" />
     </task>
     <task id="LOCAL-00001" summary="New commit">
       <created>1610706628395</created>
