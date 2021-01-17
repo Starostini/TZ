@@ -165,6 +165,10 @@ body {
 .dblock {
   display: block;
 }
+
+.product__text {
+  display: none;
+}
 @supports (-webkit-appearance:none){
 .request::after{background:black url("../img/loading.gif") center/50px no-repeat}
 }
